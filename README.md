@@ -1,4 +1,4 @@
-Gives you link to any file on your computer.
+## Setup
 
 1. Press "Win+R"
 2. Type "shell:sendto"
